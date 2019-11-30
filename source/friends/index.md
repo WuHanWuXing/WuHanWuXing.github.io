@@ -1,6 +1,6 @@
 ---
- 标题：朋友
-日期：2018-12-12 21:25:30 
-类型：“朋友”
-布局：“朋友” 
+title: friends
+date: 2018-12-12 21:25:30
+type: "friends"
+layout: "friends"
 ---
